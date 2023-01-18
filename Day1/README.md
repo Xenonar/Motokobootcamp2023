@@ -6,6 +6,7 @@ In this folder will have 2 files
 
 ### Question n Answer
 Q1.How much is the current memory capacity of a canister?
+
 Answer: 4 GB at the moment
 Q2.What is the issue with the following code sample?
 
@@ -18,7 +19,7 @@ actor {
 }
 ```
 
-Answer:  because __let__ is a immutable variable so if you want to update it needs to be __var__ or __stable var__
+Answer: because __let__ is a immutable variable so if you want to update it needs to be __var__ or __stable var__
 
 
 Q3.What is the issue with the following code sample?
@@ -38,7 +39,8 @@ actor {
 }
 ```
 
-Answer: the function "change_message" is an update call so it should be __public func change_message__ instead of ___public query func change_message___
+Answer: the function "change_message" is an update call so it should be __public func change_message__ instead of __public query func change_message__
 
 Q4. False or True: we can remove the keyword async for return argument of a query function since queries are faster to answer
+
 Answer: true
