@@ -1,5 +1,5 @@
 # Day2
 
-## Challenge
+## Challenges
 
 Canister: https://m7sm4-2iaaa-aaaab-qabra-cai.raw.ic0.app/?tag=2490631620

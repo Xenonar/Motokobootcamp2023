@@ -1,6 +1,6 @@
 # Day3
 
-## Question
+## Questions
  
 Q1. True or False: the Internet Computer has a unique public key that can be used to verify responses coming from any subnets.
 
@@ -8,7 +8,7 @@ Q2. True or False: when I realize an update call, the boundary node will partici
 
 Q3. True or False: I can create a certified variable that will certify the response of the following actor.
 
-## Challenge
+## Challenges
 
 In your file called `utils.mo`: create a function called second_maximum that takes an array [Int] of integers and returns the second largest number in the array.
 
